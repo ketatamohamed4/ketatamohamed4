@@ -9,7 +9,7 @@ I'm passionate about Linux, cloud infrastructure, automation, and building relia
 - 🎓 Computer Science Engineering student at ENIS.
 - ☁️ Exploring Cloud Computing and DevOps.
 - 🐧 Interested in Linux, system administration, and infrastructure.
-- 🔧 Hands-on experience with system administration and Virtual Desktop Infrastructure (VDI).
+- 🔧 Hands-on experience with system administration and Virtual Desktop Infrastructure .
 - 📚 Always learning and building new projects.
 
 ---
@@ -42,7 +42,7 @@ Here are some projects I've worked on:
 - **Goal**: Identify and prototype a complete, pre-linked open-source VDI "skeleton" to be commercialized as a managed service for enterprise clients.
 - **Stack**: KVM, OpenNebula, OpenUDS, Apache Guacamole, Nginx, LDAP/Active Directory.
 - **Impact**: Successfully demonstrated secure, HTML5-based desktop streaming without client software, paving the way for a legally safe, scalable commercial product with proprietary value-adds.
-- **Machine Learning Projects** – Exploring machine learning algorithms, including K-Means, Linear Regression, and Random Forest.
+- **Machine Learning Projects** – Exploring machine learning algorithms, including K-Means, Linear Regression, and Random Forest through a retail customer churn prediction project.
 
 Check out my repositories for more!
 
